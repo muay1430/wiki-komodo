@@ -5,4 +5,5 @@ Add this line inside **head** tag `<script type="text/javascript" src="https://w
 Add the following bit inside **body** tag
 
 `<script>initAETicker('aeTickerDEX', 60000, 'dex', 'ticker/dex.png');</script>`
+
 `<div class="ae-ticker" id="aeTicker"></div>`
