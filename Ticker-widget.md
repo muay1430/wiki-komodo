@@ -6,6 +6,6 @@ Add this line inside **head** tag
 
 Add the following bit inside **body** tag
 
-`<script>initAETicker('aeTickerDEX', 60000, 'dex', 'ticker/dex.png');</script>`
+`<script>initAETicker('aeTickerDEX', 60000, 'dex', 'dex.png');</script>`
 
 `<div class="ae-ticker" id="aeTicker"></div>`
